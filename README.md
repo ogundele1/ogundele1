@@ -1,5 +1,5 @@
 <h1> Hi,</h1>
-<h4><b>My focus lies in uncovering the hidden insights within data,I am an experienced Sales Professional and a Pharmacist by background</b></h4>
+<h3><b>My focus lies in uncovering the hidden insights within data,I am an experienced Sales Professional and a Pharmacist by background</b></h3>
    
 <h2>👨‍💻 Key Analysed Projects:</h2>
 
