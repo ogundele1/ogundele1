@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olumide! <br/><a href="https://github.com/ogundele1"> My focus lies in uncovering the hidden insights within data</a>, <a href="https://www.linkedin.com/in/ogundele-olumide-solomon-b104b9a5/">An experienced Sales Professional</a>, <a href="https://www.linkedin.com/in/ogundele-olumide-solomon-b104b9a5/">A Pharmacistby background</a></h1>
+<h1>Hi, I'm Olumide! <br/><a href="https://github.com/ogundele1"> My focus lies in uncovering the hidden insights within data</a>, <a href="https://www.linkedin.com/in/ogundele-olumide-solomon-b104b9a5/">An experienced Sales Professional</a>, <a href="https://www.linkedin.com/in/ogundele-olumide-solomon-b104b9a5/">A Pharmacist by background</a></h1>
 
 <h2>👨‍💻 Key Analysed Projects:</h2>
 
