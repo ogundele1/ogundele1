@@ -3,7 +3,7 @@
 <h2>👨‍💻 Key Analysed Projects:</h2>
 
 - <b>Microsoft Excel</b>
-- [Ailead Technology Online hotel booking business analysis](https://github.com/ogundele1/EXCEL-PROJECT)
+ [Ailead Technology Online hotel booking business analysis](https://github.com/ogundele1/EXCEL-PROJECT)
 - <b>PowerBI</b>
  
 - <b>Structed Query Language (SQL)</b>
