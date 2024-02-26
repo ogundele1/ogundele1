@@ -1,5 +1,6 @@
-<h1>Hi, <br/><a href="https://github.com/ogundele1"> My focus lies in uncovering the hidden insights within data</a>, <a href="https://www.linkedin.com/in/ogundele-olumide-solomon-b104b9a5/">I am an experienced Sales Professional</a> <a href="https://www.linkedin.com/in/ogundele-olumide-solomon-b104b9a5/">and a Pharmacist by background</a></h1>
-
+<h1> Hi,</h1>
+<h4><b>My focus lies in uncovering the hidden insights within data,I am an experienced Sales Professional and a Pharmacist by background</b></h4>
+   
 <h2>👨‍💻 Key Analysed Projects:</h2>
 
 - <b>Microsoft Excel</b>
