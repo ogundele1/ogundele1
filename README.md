@@ -13,7 +13,8 @@
 - <b>Structed Query Language (SQL)</b>
   
 - <b>Python</b>
-  [Foodhub Data Analysis](https://github.com/ogundele1/FoodHub-Data-Analysis/blob/main/My%20Python%20Project.ipynb)
+
+   [Foodhub Data Analysis](https://github.com/ogundele1/FoodHub-Data-Analysis/blob/main/My%20Python%20Project.ipynb)
 
 
 <h2> 🤳 Connect with me:</h2>
