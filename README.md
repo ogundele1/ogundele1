@@ -9,7 +9,8 @@
 
 
 - <b>Microsoft PowerBI</b>
- 
+
+  [Austo Automobile US expansion analysis](https://github.com/ogundele1/Austo-Automobile-Project/blob/main/Austo%20Project.pdf)
 - <b>Structed Query Language (SQL)</b>
   
 - <b>Python</b>
