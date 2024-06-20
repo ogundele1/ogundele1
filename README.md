@@ -12,7 +12,9 @@
 
   [Austo Automobile US expansion analysis](https://github.com/ogundele1/Austo-Automobile-Project)
 - <b>Structed Query Language (SQL)</b>
-  
+
+    [Property Management Services](https://github.com/ogundele1/Property-Management-Services./blob/main/SQL%20PROJECT.pdf)
+
 - <b>Python</b>
 
    [Foodhub Data Analysis](https://github.com/ogundele1/FoodHub-Data-Analysis/blob/main/My%20Python%20Project.ipynb)
