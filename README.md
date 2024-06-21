@@ -10,7 +10,8 @@
 
 - <b>Microsoft PowerBI</b>
 
-  [Austo Automobile US expansion analysis](https://github.com/ogundele1/Austo-Automobile-Project)
+  [Austo Automobile US expansion analysis](https://github.com/ogundele1/Austo-Automobile-Project)</b>
+  
   [OPPO Website Performance Analysis](https://github.com/ogundele1/OPPO-WEBSITE-PERFORMANCE-ANALYSIS)
 - <b>Structed Query Language (SQL)</b>
 
